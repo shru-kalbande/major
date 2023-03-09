@@ -25,7 +25,25 @@ Download and Install MySql workbench
 ### Download and unzip contents from GitHub repo
    Download the Supermarket Billing System and unzip
    
-### Screenshots
+## Screenshots
+
+### Splash
 ![Screenshot (1837)](https://user-images.githubusercontent.com/127025289/224111450-98bce7ff-b151-4425-aa17-43430fb5e1b3.png)
+
+### Login
+![Screenshot (1838)](https://user-images.githubusercontent.com/127025289/224112718-85e21af9-794a-4ce9-ad08-0b5d06d81874.png)
+
+### Seller
+![Screenshot (1840)](https://user-images.githubusercontent.com/127025289/224114502-5404ed57-7fd4-48f5-b253-26b9dc86191d.png)
+
+### Product
+![Screenshot (1842)](https://user-images.githubusercontent.com/127025289/224117059-ae97bdfb-2b99-44ff-85a5-93999707e72e.png)
+
+ ### Category
+ 
+ ![Screenshot (1844)](https://user-images.githubusercontent.com/127025289/224117792-d263be08-5b13-475c-b5b1-15104724b3a4.png)
+
+
+
 
 
