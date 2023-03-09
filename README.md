@@ -1,12 +1,13 @@
 # Supermarket Billing System
 ## Overview
 ### About the project :
-      This system was made in Java. The system includes a point of sale system also it manages Sellers, Admins and store inventory management.
+      This system was made in **Java**.
+The system includes a point of sale system also it manages Sellers, Admins and store inventory management.
+* Admin can add Sellers, Categories and Products under categories
+* Seller can add products to Cart as per Customer's requests
+* A Bill is printed out as PDF
+* A Database is maintained for all Sellers, Categories and Products
 
-   Admin can add Sellers, Categories and Products under categories
-   Seller can add products to Cart as per Customer's requests
-   A Bill is printed out as PDF
-   A Database is maintained for all Sellers, Categories and Products
 
 ## Prerequisites
 
@@ -22,9 +23,10 @@ Download and Install Apache Netbeans
 Download and Install MySql workbench
 
 
-### Download and unzip contents from GitHub repo
+## Download and unzip contents from GitHub repo
    Download the Supermarket Billing System and unzip
    
+
 ## Screenshots
 
 ### Splash
