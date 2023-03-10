@@ -14,10 +14,10 @@ The system includes a point of sale system also it manages Sellers, Admins and s
 To run the Application, you'll have to have these installed
 
 ### JDK
-Download and Install JDK
+Download and Install JDK (https://www.oracle.com/java/technologies/downloads)
 
 ### Apache Netbeans
-Download and Install Apache Netbeans
+Download and Install Apache Netbeans (https://netbeans.apache.org/download)
 
 ### Mysql 
 Download and Install MySql workbench
@@ -44,6 +44,11 @@ Download and Install MySql workbench
 ### Category
  
  ![Screenshot (1844)](https://user-images.githubusercontent.com/127025289/224117792-d263be08-5b13-475c-b5b1-15104724b3a4.png)
+ 
+ ### Update
+ 
+ ![Screenshot (1846)](https://user-images.githubusercontent.com/127025289/224304775-d8fe4c89-db1e-4a5f-a459-6ee36d854e75.png)
+
 
 
 
